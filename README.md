@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**ravimengal/RAVIMENGAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ravi Mengal.
+A self-Frontend Web & App Developer from Nashik, India.
 
-Here are some ideas to get you started:
+Explore my repositories to find out the projects that I've worked on, and feel free to check out the code. :octocat✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm currently good at:
+
+ * Frontend Web Development (HTML, CSS & JavaScript).
+ * Responsive Web Design (RWD).
+
+
+Things I'm currently focusing on:
+
+React JS.
+Node js.
+Modern JavaScript (ES6 & later).
