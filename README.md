@@ -1,9 +1,10 @@
 ### Hi there 👋 
 
 I'm Ravi Mengal.
-A self-Frontend Web & App Developer from Nashik, India.
+A self-taught Frontend Web Developer from Nashik, India.
 
-Explore my repositories to find out the projects that I've worked on, and feel free to check out the code. :octocat✨
+I make cool projects when i am free and try to gather infromation related to tech , open source.
+Explore my repositories to find out the projects that I've worked on, and feel free to check out the code. :octocat :octocat:sparkles
 
 What I'm currently good at:
 
@@ -13,6 +14,11 @@ What I'm currently good at:
 
 Things I'm currently focusing on:
 
-React JS.
-Node js.
-Modern JavaScript (ES6 & later).
+* React JS.
+* Node js.
+* Modern JavaScript (ES6 & later).
+
+Things that I'll focus later on:
+
+* MERN Stack.
+**Updating Soon**
