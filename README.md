@@ -41,5 +41,5 @@ Here is my github stats : )
 <img src="https://github-readme-stats.vercel.app/api?username=ravimengal&&show_icons=true&title_color=787878&icon_color=bb2acf&text_color=787878&bg_color=00EFFB">
 
 
-If you want to contact me or have some talk you can reach out me through instagram User name-----ravimengal25
+If you want to contact me or have some talk you can reach out me through :telephone_receiver: instagram User name-----ravimengal25
 **Updating Soon**
