@@ -1,8 +1,8 @@
 
 	:joy: 	:joy: 	:joy: 	:joy: 	:joy:
-### Console.warn(` welcome to ravimengal github`) 
+### Console.warn(` welcome to ravimengal github`) :raised_hand:
 
-I'm Ravi Mengal.
+I'm Ravi Mengal. :information_desk_person:
 A self-taught Frontend Web Developer from Nashik, India.
 
 I make cool projects when i am free and try to gather infromation related to tech , open source.
@@ -26,7 +26,8 @@ Things that I'll focus later on:
 * MERN Stack.
 
 
-Here is my github stats : )
+Here is my github stats : ) 
+:point_down:
 
 
 
