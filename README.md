@@ -25,7 +25,7 @@ Things that I'll focus later on:
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ravimengal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=ravimengal&&show_icons=true&title_color=00EFFB&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 If you want to contact me or have some talk you can reach out me through instagram User name-----ravimengal25
