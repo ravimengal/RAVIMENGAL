@@ -24,7 +24,7 @@ Things that I'll focus later on:
 * MERN Stack.
 
 
-
+Here is my github stats : )
 <img src="https://github-readme-stats.vercel.app/api?username=ravimengal&&show_icons=true&title_color=787878&icon_color=bb2acf&text_color=787878&bg_color=00EFFB">
 
 
