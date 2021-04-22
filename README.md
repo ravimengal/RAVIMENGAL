@@ -1,8 +1,11 @@
 
-	:joy: 	:joy: 	:joy: 	:joy: 	:joy:
+	:smiley: :smiley: :smiley:
 ### Console.warn(` welcome to ravimengal github`) :raised_hand:
 
 I'm Ravi Mengal. :information_desk_person:
+
+
+
 A self-taught Frontend Web Developer from Nashik, India.
 
 I make cool projects when i am free and try to gather infromation related to tech , open source.
