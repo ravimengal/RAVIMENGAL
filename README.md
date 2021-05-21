@@ -25,6 +25,7 @@ Things I'm currently focusing on:
 * React JS.
 * Node js.
 * Modern JavaScript (ES6 & later).
+* 
 
 Things that I'll focus later on:
 
