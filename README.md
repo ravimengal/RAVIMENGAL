@@ -43,4 +43,8 @@ Here is my github stats : )
 
 
 If you want to contact me or have some talk you can reach out me through :telephone_receiver: instagram User name----- `ravimengal25`
+
+Gmail- mengal22ravi@gmail.com
+
 **Updating Soon**
+
