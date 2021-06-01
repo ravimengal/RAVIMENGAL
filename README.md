@@ -25,7 +25,8 @@ Things I'm currently focusing on:
 * React JS.
 * Node js.
 * Modern JavaScript (ES6 & later).
-* Figma ux/ui
+* Figma ux/ui. 
+* Bootstrap
 
 
 Things that I'll focus later on:
