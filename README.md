@@ -39,12 +39,15 @@ ALWAYS FEEL :sleepy: :sleepy: :sleepy: :sleepy: :sleepy:
 Here is my github stats : ) 
 :point_down:
 
+<p align="center">
+<a href="https://github.com/ravimengal">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravimengal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravimengal&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ravimengal&&show_icons=true&title_color=787878&icon_color=bb2acf&text_color=787878&bg_color=00EFFB">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravimengal&layout=compact&langs_count=8&theme=algolia">
 
 If you want to contact me or have some talk you can reach out me through :telephone_receiver: instagram User name----- `ravimengal25`
 
