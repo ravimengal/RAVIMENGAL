@@ -22,10 +22,12 @@ What I'm currently good at:
 
 Things I'm currently focusing on:
 
+<br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+<br/>
 
 <br>
 
@@ -49,6 +51,9 @@ ALWAYS FEEL :sleepy: :sleepy: :sleepy: :sleepy: :sleepy:
 
 Here is my github stats : ) 
 :point_down:
+
+
+<br><br>
 
 <p align="center">
 <a href="https://github.com/ravimengal">
