@@ -23,16 +23,27 @@ What I'm currently good at:
 Things I'm currently focusing on:
 
 
-* React JS.
-*  Node JS 
-* Modern JavaScript (ES6 & later).
-* Figma ux/ui. 
-* Bootstrap
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+
+<br>
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
+
+<br>
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+
+<br/>
 
 
 Things that I'll focus later on:
 
-* MERN Stack.
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
  
 ALWAYS FEEL :sleepy: :sleepy: :sleepy: :sleepy: :sleepy: 
 
