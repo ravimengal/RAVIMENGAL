@@ -44,7 +44,7 @@ Things I'm currently focusing on:
 
 Things that I'll focus later on:
 
-![Express](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=ffffff)
+![Express](https://img.shields.io/badge/-Express-764abc?style=for-the-badge&logo=redux&logoColor=ffffff)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
