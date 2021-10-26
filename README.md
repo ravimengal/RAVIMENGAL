@@ -68,7 +68,7 @@ Here is my github stats : )
 
 If you want to contact me or have some talk you can reach out me through :telephone_receiver: instagram User name----- `ravimengal25`
 
-Gmail- mengal22ravi@gmail.com
+![GMAIL](https://img.shields.io/badge/-GMAIL-%23E44D27?style=for-the-badge&logo=gmail&logoColor=ffffff)- mengal22ravi@gmail.com
 
 
 **Updating Soon**
