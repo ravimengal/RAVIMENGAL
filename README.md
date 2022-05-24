@@ -27,7 +27,8 @@ Things I'm currently focusing on:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=ffffff)`
+![Angularjs](https://img.shields.io/badge/-Angular-764abc?style=for-the-badge&logo=angular&logoColor=ffffff)
 <br/>
 
 <br>
