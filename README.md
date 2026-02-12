@@ -48,8 +48,6 @@ Things that I'll focus later on:
 ![Express](https://img.shields.io/badge/-Express-764abc?style=for-the-badge&logo=redux&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
- 
-ALWAYS FEEL :sleepy: :sleepy: :sleepy: :sleepy: :sleepy: 
 
 Here is my github stats : ) 
 :point_down:
